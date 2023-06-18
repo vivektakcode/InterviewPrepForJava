@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34af62c0-543d-44a0-970b-fed221172a96" name="Changes" comment="Java Interview Prep">
-      <change afterPath="$PROJECT_DIR$/src/Classes/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAQuestions/Arrays/IncrementNumberAsArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAQuestions/Arrays/SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSAQuestions/Arrays/StockPriceToMaximiseProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/Things to learn.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Things to learn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSAQuestions/Arrays/RotateImageOfArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SpiralMatrix">
+  <component name="RunManager" selected="Application.RotateImageOfArray">
     <configuration name="AdditionOfMatrixDebug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdditionOfMatrixDebug" />
       <module name="Learn Java" />
@@ -67,9 +61,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestFibonacciNumberDebug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LargestFibonacciNumberDebug" />
+    <configuration name="RotateImageOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSAQuestions.Arrays.RotateImageOfArray" />
       <module name="Learn Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAQuestions.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateImageOfArray" />
         <item itemvalue="Application.SpiralMatrix" />
         <item itemvalue="Application.IncrementNumberAsArray" />
         <item itemvalue="Application.StockPriceToMaximiseProfit" />
         <item itemvalue="Application.AdditionOfMatrixDebug" />
-        <item itemvalue="Application.LargestFibonacciNumberDebug" />
       </list>
     </recent_temporary>
   </component>
